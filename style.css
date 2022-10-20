@@ -1,3 +1,52 @@
 body{
-    background-color: aquamarine;
+    background-color: gray;
+}
+#imieInazwisko{
+    border-style: solid;
+    border-color:midnightblue;
+    border-inline-color: blue;
+    text-align: center;
+    margin-left: 0%;
+    border-radius: 40%;
+    color: rgb(0, 61, 117);
+}
+#name{
+    margin-left: 2%;
+    display: inline-block;
+}
+#profilowe{
+    border-radius: 10%;
+    border-color: midnightblue;
+    border-style:solid;
+    width: 100%;
+}
+#zdj{
+    text-align: center;
+    width: 25%;
+    height: auto;
+    display: inline-block;
+}
+.kolorNiebieski{
+    color: rgb(0, 61, 117);
+}
+.kolorZielony{
+    color: chartreuse;
+}
+.kolorCzerwony{
+    color:crimson;
+}
+#hobby{
+    text-align: left;
+}
+.podkreslenie{
+    text-decoration-line: underline;
+}
+.maly{
+    font-size: 15px;
+}
+.sredni{
+    font-size: 20px;
+}
+.duzy{
+    font-size: 25px;
 }
